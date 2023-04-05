@@ -1,2 +1,2 @@
 # url: http://localhost/e-commerce
-# database-dir: ecommerce/database-dump/ecommerce
+# database-dir: e-commerce/database-dump/ecommerce.sql
